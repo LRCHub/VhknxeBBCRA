@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Unreal Life",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2026-03-08T09:00:17.316452Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Unreal Life (feat. ItimatuSuzuka)",
+      "artist": "PeanutsKun",
+      "has_synced": false,
+      "path": "select/01_Unreal_Life_(feat._ItimatuSuzuka)_PeanutsKun.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Unreal Life",
+      "artist": "ピーナッツくん, 市松寿ゞ謡",
+      "has_synced": false,
+      "path": "select/pl_01_Unreal_Life_ピーナッツくん,_市松寿ゞ謡.txt"
+    }
+  ]
+}
